@@ -34,6 +34,32 @@ Creating NumPy arrays with:
 * Understanding indexing and slicing
 
 Subsetting arrays using:
- ```python
- array[index]
- array[start:end]
+
+array[index]
+array[start:end]
+
+Working with 2D NumPy arrays (rows & columns)
+
+Accessing rows and columns using:
+array[row, column]
+array[:, column]
+array[row, :]
+
+Understanding .shape and dimensions
+Performing calculations on 2D arrays
+Unit conversion using NumPy arrays
+Basic statistics with NumPy:
+np.mean()
+np.median()
+np.std()
+np.corrcoef()
+Understanding concepts like:
+outliers
+standard deviation
+correlation
+data spread
+
+#Biggest thing I improved today:
+
+I started understanding how to THINK in NumPy instead of memorizing syntax.
+Rows, columns, slicing, indexing, and array operations are becoming much more intuitive now. 🚀
