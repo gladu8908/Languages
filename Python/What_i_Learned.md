@@ -46,6 +46,45 @@ Completed the Python Basics chapter and strengthened my foundation in core Pytho
 I became more comfortable reading and understanding Python code structure.  
 Variables, calculations, and basic syntax are starting to feel much more natural now. 🚀
 
+# Python Lists 📋
+
+Completed the Python Lists chapter and learned how to store, access, and manipulate collections of data in Python.
+
+## What I learned:
+- Creating Python lists
+- Storing multiple values in one variable
+- Working with lists containing different data types
+- Creating nested lists (lists of lists)
+- Accessing list elements using indexing
+- Understanding that Python indexing starts at `0`
+- Subsetting lists using:
+  ```python
+  list[index]
+
+Slicing lists using:
+
+list[start:end]
+Understanding that slicing includes the start index but excludes the end index
+Accessing values inside nested lists
+Modifying list elements
+Replacing list items
+Extending lists
+Deleting list elements
+Understanding how lists work internally
+
+Important concepts practiced:
+Indexing vs. human counting
+Slicing and subsetting
+Nested data structures
+Data organization
+List manipulation and updating
+Reading and understanding structured data
+Biggest thing I improved:
+
+I became much more comfortable with indexing, slicing, and navigating structured data.
+This chapter also helped prepare me for working with NumPy arrays later on. 🚀
+
+
 ## NumPy Fundamentals 📊
 
 Today I restarted and strengthened my understanding of NumPy from the basics.
