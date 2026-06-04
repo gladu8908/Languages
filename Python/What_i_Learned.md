@@ -18,20 +18,6 @@ Completed the **Introduction to Python** course on DataCamp.
   - `np.std()`
   - `np.corrcoef()`
 
-#### Skills Strengthened:
-- Problem solving
-- Python syntax understanding
-- Working with structured data
-- Data manipulation
-- Beginner-level data analysis
-- Thinking in arrays and dimensions
-
-#### Course Info:
-- Platform: DataCamp
-- Course: Introduction to Python
-- Completion Date: June 04, 2026
-- Duration: 4 Hours
-
 ### Certificate
 ![Introduction to Python Certificate](./assets/datacamp-introduction-to-python-certificate.png)
 
