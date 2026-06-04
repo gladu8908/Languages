@@ -19,10 +19,9 @@ Completed the **Introduction to Python** course on DataCamp.
   - `np.corrcoef()`
 
 ### Certificate
-![Introduction to Python Certificate](./assets/datacamp-introduction-to-python-certificate.png)
+![Introduction to Python Certificate](../assets/Datacamp_Python_intro.png)
 
-### Course Badge
-![Introduction to Python Badge](./assets/datacamp-introduction-to-python-badge.png)
+
 
 
 ## Python Basics 🐍
