@@ -85,6 +85,56 @@ I became much more comfortable with indexing, slicing, and navigating structured
 This chapter also helped prepare me for working with NumPy arrays later on. 🚀
 
 
+# Functions and Packages ⚙️
+
+Completed the Functions and Packages chapter and learned how to use built-in Python functionality more efficiently through functions, methods, and packages.
+
+## What I learned:
+- Understanding and using Python functions
+- Calling familiar built-in functions like:
+  ```python
+  print()
+  type()
+  len()
+
+Using help documentation with:
+
+help()
+Passing multiple arguments into functions
+Understanding methods and how they differ from functions
+Working with string methods
+Working with list methods
+Modifying and manipulating lists using methods
+Understanding packages and reusable code libraries
+
+Importing packages using:
+
+import package_name
+Using selective imports
+Learning different ways of importing packages
+
+Understanding aliases like:
+
+import numpy as np
+Important concepts practiced:
+Function syntax and arguments
+Difference between functions and methods
+
+Using dot notation:
+
+object.method()
+Reading documentation and help pages
+Importing and organizing external code
+Writing cleaner and more efficient Python code
+Biggest thing I improved:
+
+I became more comfortable understanding how Python code is structured using functions, methods, and packages.
+This chapter also helped prepare me for working with NumPy and external Python libraries more confidently. 🚀
+
+
+
+
+
 ## NumPy Fundamentals 📊
 
 Today I restarted and strengthened my understanding of NumPy from the basics.
