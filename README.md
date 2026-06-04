@@ -1,21 +1,15 @@
 
-# My First Python Journey
+# My Programming language journey
 
-This repository tracks my progress as I learn Python step-by-step.
+This repository tracks my progress as I learn Languages step-by-step.
 
 ## Contents
 
 # Python Journey 🚀
+# Linux
+# SQL
+# Java Script
 
-**13/05/2026**
-
-Today I practiced:
-- Variables
-- Basic math operations
-- Print statements
-- Syntax basics
-
-Currently progressing through the Introduction chapter and building a stronger Python foundation step by step.
 
 
 ## 14/05/2026
