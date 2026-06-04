@@ -14,7 +14,37 @@ Completed topics:
 Slowly building a solid understanding of Python fundamentals step by step 🚀
 
 
+## Python Basics 🐍
 
+Completed the Python Basics chapter and strengthened my foundation in core Python concepts.
+
+### What I learned:
+- Writing and running basic Python code
+- Using Python as a calculator
+- Understanding variables and data types
+- Variable assignment and reassignment
+- Performing calculations with variables
+- Working with different data types:
+  - integers
+  - floats
+  - strings
+  - booleans
+- Combining and manipulating different types
+- Basic Python syntax and structure
+- Using `print()` for output
+- Understanding how Python stores and processes data
+
+### Important concepts practiced:
+- Storing values inside variables
+- Updating variable values
+- Mathematical operations in Python
+- String operations and concatenation
+- Type checking and understanding outputs
+- Building confidence reading Python syntax
+
+### Biggest thing I improved:
+I became more comfortable reading and understanding Python code structure.  
+Variables, calculations, and basic syntax are starting to feel much more natural now. 🚀
 
 ## NumPy Fundamentals 📊
 
