@@ -1,17 +1,42 @@
-## 14/05/2026
+## 🏆 Certifications & Course Completion
 
-Continued learning Python on [Boot.dev]
+### Introduction to Python — DataCamp
+Completed the **Introduction to Python** course on DataCamp.
 
-Completed topics:
-- Variables
-- Variables Vary
-- Math
-- Negative Numbers
-- Comments
-- Variable Names
-- Basic Variable Types
+#### Covered Topics:
+- Python Basics
+- Python Lists
+- Functions and Packages
+- NumPy Fundamentals
+- 1D & 2D NumPy Arrays
+- Indexing and Slicing
+- Array Arithmetic
+- Basic Data Analysis with NumPy
+- Statistical Functions:
+  - `np.mean()`
+  - `np.median()`
+  - `np.std()`
+  - `np.corrcoef()`
 
-Slowly building a solid understanding of Python fundamentals step by step 🚀
+#### Skills Strengthened:
+- Problem solving
+- Python syntax understanding
+- Working with structured data
+- Data manipulation
+- Beginner-level data analysis
+- Thinking in arrays and dimensions
+
+#### Course Info:
+- Platform: DataCamp
+- Course: Introduction to Python
+- Completion Date: June 04, 2026
+- Duration: 4 Hours
+
+### Certificate
+![Introduction to Python Certificate](./assets/datacamp-introduction-to-python-certificate.png)
+
+### Course Badge
+![Introduction to Python Badge](./assets/datacamp-introduction-to-python-badge.png)
 
 
 ## Python Basics 🐍
