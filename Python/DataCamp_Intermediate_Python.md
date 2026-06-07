@@ -25,6 +25,8 @@ This section helped me understand that data is often easier to understand when i
 line plots are useful for trends over time
 scatter plots are useful for relationships between variables
 histograms are useful for distributions
+
+
 2. Dictionaries and pandas DataFrames
 The next major section focused on dictionaries and pandas.
 
