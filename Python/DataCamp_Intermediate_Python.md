@@ -1,3 +1,5 @@
+![Intermediate Python Certificate](assets/DataCamp_Python_InterMedia.png)
+
 Intermediate Python
 
 
