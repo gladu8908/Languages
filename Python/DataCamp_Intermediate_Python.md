@@ -1,4 +1,6 @@
 Intermediate Python
+
+
 I completed the Intermediate Python course on DataCamp as part of my Python learning journey. This course helped me move beyond basic syntax and start understanding how Python is used in a more practical way for working with data, making decisions in code, visualizing information, and simulating real-world situations.
 
 I came into this course already knowing the basics of Python, lists, functions, and introductory NumPy. What this course really did for me was connect those topics together and show me how they are used in larger, more meaningful tasks.
